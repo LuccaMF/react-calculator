@@ -17,7 +17,7 @@ Welcome to the React Calculator! This project is a simple calculator built using
 
 ## Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo [here](https://react-calculator-rho-nine.vercel.app/).
 
 ## Installation
 
